@@ -47,3 +47,4 @@ The Pallet Theme will continue to be maintained to ensure compatibility with Fla
 - [Discuss](https://discuss.flarum.org/d/34569-pallet-theme-new)
 - [Original Theme](https://github.com/the-turk/flarum-pallet-theme)
 - [Original Discussion](https://discuss.flarum.org/d/27757-pallet-theme)# Vanguard-Theme
+# Vanguard-Theme
